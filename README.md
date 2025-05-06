@@ -7,8 +7,8 @@ This project showcases my personal projects, skills, and a short bio — a stepp
 
 ## 🌐 Live Preview
 
-To view locally, open in your browser:  
-`http://127.0.0.1:3000/PORTFOLIO/index.html`
+To view, open in your browser:  
+`https://vidisha151.github.io/PORTFOLIO/`
 
 ---
 
